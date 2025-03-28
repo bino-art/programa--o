@@ -1,15 +1,19 @@
 h1 {
-    color: rgb(5, 255, 109);
-    font-size: 50px;
-    text-align: center;
-    margin-top: 20px;
-    padding: 15px;
-    background-color: rgb(24, 57, 41);
+  color: rgb(5, 255, 109);
+  font-size: 50px;
+  text-align: center;
+  margin-top: 20px;
+  padding: 15px;
+  background-color: rgb(24, 57, 41);
 }
 body {
-    background-color: rgb(16, 16, 110);
-    color: rgb(255, 255, 255);
-    font-family: 'times', Courier, monospace;
-    margin: 0;
-    padding: 0;   
+  background-color: rgb(16, 16, 110);
+  color: rgb(255, 255, 255);
+  font-family: "times", Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  background-color: red;
 }
